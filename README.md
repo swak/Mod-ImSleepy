@@ -1,2 +1,9 @@
-# Mod-ImSleepy
-a forge version of the SleepyMod for Forge
+# Mod-Minecraft
+
+## FORGE MODS
+- Mod-ImSleepy
+- Mod-WC
+- Mod-DeadCity
+
+## BUKKIT
+- Mod-SleepyTime
