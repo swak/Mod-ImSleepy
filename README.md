@@ -6,4 +6,5 @@
 - Mod-DeadCity
 
 ## BUKKIT
+- Mod-BandageMe
 - Mod-SleepyTime
