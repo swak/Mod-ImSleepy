@@ -1,4 +1,4 @@
-# Mod-Minecraft
+# Mod-Minecraft - Forge and Bukkit Mods written in Java
 
 ## FORGE MODS
 - Mod-ImSleepy
